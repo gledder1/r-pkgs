@@ -1,3 +1,4 @@
+# ignore this line--I just wanted to write a comment
 # The Whole Game {#whole-game}
 
 ```{r, include = FALSE}
